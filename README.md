@@ -1,4 +1,4 @@
-# dx11Shader
+# dx11UberShaderBlendND
 Custom DX11Shader with Normal and Displacement Map Blending for Autodesk Maya.
 This dx11Shader is used for creating wrinkle effects in my personal rigging project, you may check out at this website: https://vimeo.com/127718381 
 This custom shader is based on orignal AutodeskUberShader which Maya ships.
